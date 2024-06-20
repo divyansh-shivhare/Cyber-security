@@ -15,17 +15,20 @@ ranging from -1,0,1.
  0: Suspicious
  1: Legitimate
 The sample could be either legitimate or phishing.
-Project Task: Week 1
+Project Task: 
+Week 1
 1. Each sample has 32 features ranging from -1,0,1. Explore the data using histogram, heatmaps.
 2. Determine the number of samples present in the data, unique elements in all the features.
 3. Check if there is any null value in any features.
 Exploratory Data Analysis
-Project Task: Week 2
+Project Task:
+Week 2
 Next, we have to find if there are any correlated features present in the
 data. Remove the feature which might be correlated with some threshold.
 Correlation of features and feature
 selection:
-Project Task: Week 3 and 4
+Project Task:
+Week 3 and 4
 Finally, build a robust classification system that classifies whether the URL sample is a phishing site or not.
 1. Build classification models using a binary classifier to detect malicious or phishing URLs.
 2. Illustrate the diagnostic ability of this binary classifier by plotting the ROC curve.
